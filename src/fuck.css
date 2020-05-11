@@ -5,7 +5,7 @@ html, body {
 }
 
 body {
-    background: url(alpha.png) rgba(228, 192, 228, .4) no-repeat;
+    background: url(alpha.jpg) rgba(228, 192, 228, .4) no-repeat;
     background-position: center center;
     background-size: contain;
 }
